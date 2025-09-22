@@ -1,5 +1,5 @@
 # 📂 CodeWeb
 
-Chọn file để xem demo:
+Demo các project nhỏ:
 
 - [💖 Heart](https://huong-charm.github.io/CodeWeb/heart.html)
